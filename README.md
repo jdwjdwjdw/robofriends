@@ -4,6 +4,8 @@ Now let's see if I updated my settings to give me the commit, vs "unknown"...
 
 Attempt #2?
 
+YES IT WORKED! GO ME.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
