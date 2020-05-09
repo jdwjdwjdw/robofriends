@@ -1,3 +1,7 @@
+Robofriends app created while completing Andrei Neagoie's excellent Udemy course, "The Complete Web Developer in 2020: Zero to Mastery".
+
+Now let's see if I updated my settings to give me the commit, vs "unknown"...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
