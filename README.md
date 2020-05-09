@@ -2,6 +2,8 @@ Robofriends app created while completing Andrei Neagoie's excellent Udemy course
 
 Now let's see if I updated my settings to give me the commit, vs "unknown"...
 
+Attempt #2?
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
